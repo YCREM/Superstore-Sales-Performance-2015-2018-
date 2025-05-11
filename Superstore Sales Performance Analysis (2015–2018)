@@ -1,0 +1,138 @@
+# 📊 Superstore Sales Performance Analysis (2015–2018)
+
+Welcome to my project repository on **Superstore Sales Performance Analysis**, completed as part of my training at **Vephla University School of Data Sciences and Data Engineering**.
+
+This project explores consumer trends, regional sales dynamics, product performance, and customer segmentation using real-world sales data from a large retail superstore, with a focus on **visual storytelling** and **business decision-making**.
+
+---
+
+## 🧠 Project Objective
+
+The aim was to:
+
+* Analyze sales data from 2015 to 2018
+* Identify high-performing regions, products, and customers
+* Uncover patterns in consumer behavior
+* Generate actionable business insights for stakeholders
+
+---
+
+## 📝 Problem Statement
+
+Superstores handle a wide variety of products and cater to thousands of customers across regions. Understanding:
+
+* **Which products sell best?**
+* **Which customers contribute most revenue?**
+* **What regional patterns exist?**
+  ...can help managers drive growth, optimize inventory, and create targeted strategies.
+
+---
+
+## 📂 Dataset Summary
+
+* **Source:** \[Kaggle / Provided internally at Vephla]
+* **Records:** 10,000+ transactions
+* **Period Covered:** 2015–2018
+* **Columns include:**
+
+  * Customer Name, Product, Category, Sub-Category
+  * Region, State, City, Sales, Profit, Order Date, etc.
+
+---
+
+## 🧹 Data Preprocessing & Cleaning
+
+Steps taken:
+
+* Removed duplicates
+* Handled null values
+* Standardized categorical entries (e.g., Region, Category names)
+* Converted date columns to proper datetime formats
+* Split data into **Independent variables** (Product, Customer, Location) and **Dependent variables** (Sales, Profit)
+
+---
+
+## 🔎 Exploratory Analysis
+
+Used **Excel** and **Power BI** to perform:
+
+* Region-wise & State-wise sales distribution
+* Product Sub-Category performance
+* Time-series sales trends
+* Customer segmentation by transaction amount
+* Top-performing cities, products, and customers
+
+---
+
+## 📈 Key Findings & Observations
+
+1. **Top Performing Region:**
+
+   * **Western Region** generated the highest revenue (\$710,220).
+   * **California** was the leading state with \$446,306 in sales.
+
+2. **Top Product:**
+
+   * **Phones** were the best-selling product category with over \$327,000 in sales.
+   * Their popularity was strongest in the **East and West**.
+
+3. **Top Customers:**
+
+   * **Sean Miller** led with \$25,043 in total purchases.
+   * Raymond Buch was the most valuable customer in the West.
+
+4. **Sales Trends:**
+
+   * Peak sales occurred on **March 18, 2015** and **November 19, 2015**.
+   * Certain months showed stagnation, revealing marketing or logistic gaps.
+
+---
+
+## 📌 Business Recommendations
+
+* **Focus on High-Performing Products:**
+  Invest in inventory and marketing for Phones and Chairs, especially in Western states.
+
+* **Customer Retention:**
+  Offer loyalty programs for high-value customers like Sean Miller, Raymond Buch, and John Murray to encourage repeat purchases.
+
+* **Regional Expansion:**
+  Replicate strategies from California and Los Angeles in underperforming regions like the South.
+
+* **Promotional Targeting:**
+  Leverage high-sales dates for promotional offers or flash sales across channels.
+
+* **Tailored Marketing:**
+  Promote Machines more aggressively in the South and Chairs in the West to align with regional buying preferences.
+
+---
+
+## 🧰 Tools Used
+
+* Microsoft Excel (PivotTables, Charts, Conditional Formatting, Interactive Dashboard, Data Cleaning)
+
+
+## 📎 Medium Post
+
+A full breakdown of the project, insights, and business implications is available here:
+🔗 https://medium.com/@ycrem_/superstore-sales-performance-2015-2018-a-data-driven-business-analysis-d6c8e89b45a7
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](./assets/superstore_dashboard.png)
+
+---
+
+## 🤝 Acknowledgments
+
+This project was created as part of my coursework at **Vephla University**. Special thanks to my instructors and peers at #VephlaUni for their guidance and feedback.
+
+---
+
+## 📬 Contact
+
+* 💼 LinkedIn: [Mercy Maradesa](https://tinyurl.com/22wm36xk)
+* 🐦 Twitter: [@analyst_ycrem](https://twitter.com/@analyst_ycrem)
+* 📬 Email: [madebola999@email.com]
